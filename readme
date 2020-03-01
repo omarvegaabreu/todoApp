@@ -1,0 +1,11 @@
+This is a basic ES6 application using object oriented programming. 
+The purpose of the application is to learn the basics of javascript and also 
+to gain a deeper understanding of functions.
+
+
+Techonologies used:
+
+-javascript
+-html5
+-CSS
+-UUID library to generate individual ID.
